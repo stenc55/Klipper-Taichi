@@ -2,7 +2,6 @@ My configs and macros for 2in1out Phateus Taichi hotend
 DD configuration with 2x Sailfin extruder
 
 
-
 ![IMG_20230921_111743](https://github.com/stenc55/Klipper-Taichi/assets/68291385/6bb01c93-cdf1-4674-9d31-9d43e378dc07)
 
 
